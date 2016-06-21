@@ -1,5 +1,5 @@
              Android Studio方法注释模板
-
+##交流QQ群：221537774  邮箱：2402091500@qq.com   qq2402091500@gmail.com
 步骤
 
 * 1 File->Setting->Editor->Live Templates
